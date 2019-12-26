@@ -14,7 +14,7 @@
    id="svg4423"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="calendar.svgz">
+   sodipodi:docname="calendar.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,13 +23,13 @@
      inkscape:pageopacity="0.58823529"
      inkscape:pageshadow="2"
      inkscape:zoom="18.356297"
-     inkscape:cx="19.394733"
+     inkscape:cx="-0.1625884"
      inkscape:cy="3.424578"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -67,7 +67,7 @@
     <path
        inkscape:connector-curvature="0"
        d="m 15.75,1036.3622 c -0.984899,0 -1.75,0.7651 -1.75,1.7501 l 0,12.5 c 0,0.9848 0.765101,1.7499 1.75,1.7499 l 12.5,0 c 0.984899,0 1.75,-0.7651 1.75,-1.7499 l 0,-12.5 c 0,-0.985 -0.765101,-1.7501 -1.75,-1.7501 z m 4.25,2 4,0 0,2 -4,0 z m 0,4 4,0 0,8 -4,0 z"
-       style="color:#bebebe;fill:#b48ead;fill-opacity:1"
+       style="color:#bebebe;fill:#476a95;fill-opacity:1"
        id="event"
        inkscape:label="#event" />
   </g>
