@@ -81,7 +81,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="false"
      inkscape:zoom="2.2390383"
-     inkscape:cx="61.091414"
+     inkscape:cx="-19.076933"
      inkscape:cy="17.663528"
      inkscape:current-layer="svg2"
      inkscape:window-x="0"
@@ -109,7 +109,7 @@
      transform="translate(5.6072311,3.2341537)">
     <path
        id="INNER"
-       style="color:#31363b;fill:none;fill-opacity:1;stroke:#5e81ac;stroke-width:7.80982971;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352941"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:#446286;stroke-width:7.80982971;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82352942"
        class="ColorScheme-Text"
        sodipodi:type="arc"
        sodipodi:cx="64.861641"
@@ -141,7 +141,7 @@
        cy="65.765846"
        cx="63.392769"
        class="ColorScheme-Text"
-       style="color:#31363b;fill:none;fill-opacity:1;stroke:#b48ead;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:#906087;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="OUTER" />
   </g>
   <g
