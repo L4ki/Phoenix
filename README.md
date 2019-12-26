@@ -10,3 +10,9 @@ Changelog: 26.10.2019.
 ----------------------
 
 Icon added: cantata.svg
+
+
+Changelog: 26.12.2019.
+----------------------
+
+Redesigned Theme
