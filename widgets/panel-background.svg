@@ -15,7 +15,7 @@
    height="64"
    id="svg3642"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,12 +26,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1023"
      id="namedview208"
      showgrid="false"
-     inkscape:zoom="5.9440861"
-     inkscape:cx="2.8590079"
-     inkscape:cy="14.30453"
+     inkscape:zoom="4.2031036"
+     inkscape:cx="21.696466"
+     inkscape:cy="48.515903"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,13 +71,6 @@
        xlink:href="#linearGradient11994"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <rect
-     width="64"
-     height="64"
-     x="0"
-     y="0"
-     id="rect3966"
-     style="fill:#21262f;fill-opacity:1;stroke:none;opacity:1" />
   <g
      transform="translate(-1453.4451,-465.21909)"
      id="g4418"
@@ -765,33 +758,33 @@
      x="-4.5329394"
      y="-22.917648"
      id="hint-stretch-borders"
-     style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#5e81ac;fill-opacity:1;stroke:none" />
   <rect
      width="14"
      height="4"
      x="-0.17764512"
      y="29.727062"
      id="hint-left-margin"
-     style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#5e81ac;fill-opacity:1;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="-0.91764879"
      id="hint-top-margin"
-     style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#5e81ac;fill-opacity:1;stroke:none" />
   <rect
      width="4"
      height="14"
      x="29.467056"
      y="51.082355"
      id="hint-bottom-margin"
-     style="fill:#5e81ac;fill-opacity:1;stroke:none;opacity:1" />
+     style="fill:#5e81ac;fill-opacity:1;stroke:none;opacity:0.01" />
   <rect
      width="14"
      height="4"
      x="50.316471"
      y="29.727062"
      id="hint-right-margin"
-     style="opacity:1;fill:#5e81ac;fill-opacity:1;stroke:none" />
+     style="opacity:0.01;fill:#5e81ac;fill-opacity:1;stroke:none" />
 </svg>

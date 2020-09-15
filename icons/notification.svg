@@ -21,6 +21,18 @@
      id="defs875">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#cd3eb3;stop-opacity:1"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#217ae7;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient845">
       <stop
          style="stop-color:#5e81ac;stop-opacity:1"
@@ -34,19 +46,19 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient845"
-       id="linearGradient850"
-       x1="4"
+       id="linearGradient849"
+       x1="8.2426405"
        y1="12"
        x2="20"
        y2="12"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient845"
-       id="linearGradient849"
-       x1="8.2426405"
+       xlink:href="#linearGradient846"
+       id="linearGradient848"
+       x1="8.25"
        y1="12"
-       x2="20"
+       x2="17.5"
        y2="12"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -57,14 +69,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-26.855709"
-     inkscape:cy="4.4376505"
+     inkscape:zoom="4"
+     inkscape:cx="-14.998998"
+     inkscape:cy="9.4559803"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -130,7 +142,7 @@
          cy="12"
          r="8"
          class="ColorScheme-Text"
-         style="opacity:0.4;fill:url(#linearGradient850);fill-opacity:1.0" />
+         style="opacity:0.4;fill:url(#linearGradient848);fill-opacity:1" />
     </g>
     <g
        id="notification-active"
